@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Shaders.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Kaleidoscope/Screensaver.unity
+    guid: 08a8b5889c6cabd4480a0069f62f2ef4
   m_configObjects: {}
